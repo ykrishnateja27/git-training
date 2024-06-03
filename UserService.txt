@@ -1,2 +1,6 @@
 get the user data...
 process the data
+
+
+experimental code
+create an avatar for user 
